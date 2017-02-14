@@ -1,5 +1,7 @@
 # iOS: Sample code of NSURLSession in Objective-C and Swift
-[blog.luduscella.com](http://blog.luduscella.com)
+
+
+Please let me know if you have any questions by leaving a comment below or on twitter [@luisemedr](https://twitter.com/luisemedr)
 
 
 ###Notes:
